@@ -38,3 +38,8 @@ amplifyconfiguration.json
 .tmp/
 *.png
 nul
+
+# Analysis and test artifacts
+serendie-design-skills.md
+serendie-usage-analysis.md
+test-results/
